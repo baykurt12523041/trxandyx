@@ -20,7 +20,7 @@
   <table border="0">
     <tr>
       <td align="center" width="33%">
-        <img src="https://www.pasteboard.co/0bXc1aHLnwWG.jpg" width="100%" style="border-radius: 10px;" alt="Ana Menü">
+        <img src="1.jpeg" width="100%" style="border-radius: 10px;" alt="Ana Menü">
         <br><sub><b>📡 Modern Ana Menü</b></sub>
       </td>
       <td align="center" width="33%">
